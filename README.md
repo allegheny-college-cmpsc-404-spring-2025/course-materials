@@ -92,6 +92,7 @@ tools used:
 - node.js
 - Apache Web Server 2.0
 - Network File-Sharing (NFS) protocol
+- Kerberos authentication protocol
 
 Not every student will need to use all of these at one time, and students may not receive equal time learning all of the platforms and products listed
 above. However, this course provides exposure to inputs and outputs of processes using these technologies. Those students interested in learning more
