@@ -15,7 +15,7 @@
 > "I am everywhere,” answered the Voice, "but to the eyes of common 
 > mortals I am invisible."
 >
-> - L. Frank Baum, _The Wizard of Oz_
+> -- L. Frank Baum, _The Wizard of Oz_
 
 ### Course information
 
