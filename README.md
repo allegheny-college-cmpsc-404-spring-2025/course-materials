@@ -26,7 +26,6 @@
 |Monday, Wednesday, Friday |11:00 - 11:50 |Activities  |Alden 101                       |
 |Thursday                  |14:30 - 16:30 |Lab session |Alden 109                       |
 
-
 ### Contact
 
 * Instructor: Douglas Luman
@@ -124,7 +123,7 @@ system is included in the course code of conduct, the general definition of the 
 
 |Module |Contents                         |Weight |Point value |
 |-------|---------------------------------|-------|------------|
-| `1`   | Endpoints hardening and DevOps  |
+| `1`   |                                 |       |            |
 
 #### Class participation
 
@@ -139,10 +138,10 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 
 |Module     | Dates            |
 |:----------|:-----------------|
-| Project planning and design  | 17 Jan. - 9 Feb. |
-| Building Web Applications    | 12 Feb. - 1 Mar. |
-| Building a minimum viable product (MVP) | 11 Mar. - 5 Apr. |
-|Testing and finishing your release candidate (RC)  | 8 Apr. - 29 Apr. |
+| Project planning and design  | 13 Jan. - 31 Jan. |
+| Building Web Applications    | 3 Feb. - 28 Feb. |
+| Building a minimum viable product (MVP) | 10 Mar. - 4 Apr. |
+|Testing and finishing your release candidate (RC)  | 7 Apr. - 28 Apr. |
 
 "Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
 while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the start of each 
