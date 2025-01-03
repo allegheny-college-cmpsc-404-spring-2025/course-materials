@@ -15,7 +15,7 @@
 > "I am everywhere,” answered the Voice, "but to the eyes of common 
 mortals I am invisible."
 >
-> L. Frank Baum, _The Wizard of Oz_
+> - L. Frank Baum, _The Wizard of Oz_
 
 ### Course information
 
@@ -36,9 +36,14 @@ mortals I am invisible."
 
 ### Office hours
 
-|Day(s) of Week            |Time           |          |
+|Day(s) of Week            |Time           |Place     |
 |--------------------------|---------------|----------|
-|
+|Monday                    |10:00 - 11:00  |Alden Hall|
+|Wednesday                 |10:00 - 11:00  |Alden Hall|
+|                          |15:00 - 16:30  |Alden Hall|
+|Thursday                  |10:00 - 12:00  |Alden Hall|
+|Friday                    |10:00 - 11:00  |Alden Hall|
+|                           15:00 - 16:30  |Alden Hall|
 
 To reserve a 15-minute slot during the above times, visit my office hours calendar [listed above](#important-resources).
 
