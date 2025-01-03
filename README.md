@@ -13,7 +13,7 @@
 > Dorothy asked, “Where are you?” 
 >
 > "I am everywhere,” answered the Voice, "but to the eyes of common 
-mortals I am invisible."
+> mortals I am invisible."
 >
 > - L. Frank Baum, _The Wizard of Oz_
 
@@ -43,7 +43,7 @@ mortals I am invisible."
 |                          |15:00 - 16:30  |Alden Hall|
 |Thursday                  |10:00 - 12:00  |Alden Hall|
 |Friday                    |10:00 - 11:00  |Alden Hall|
-|                           15:00 - 16:30  |Alden Hall|
+|                          |15:00 - 16:30  |Alden Hall|
 
 To reserve a 15-minute slot during the above times, visit my office hours calendar [listed above](#important-resources).
 
@@ -77,23 +77,25 @@ Students who successfully complete this requirement will demonstrate an understa
 
 ### Required materials
 
-#### Course resources
+#### Course technologies
 
-This course relies primarily on freely-availble documentation from a number of the platforms that we'll be using. Depending on your team's choice
-of technologies, these resources may differ dramatically. However, the basic "stack" that we'll review during tutorial sessions:
+The technologies underlying this course are all hosted and provided free of charge. The follow list attempts an exhaustive catalog of the various
+tools used:
 
-* [htmx](https://htmx.org/)
-* [flask](https://palletsprojects.com/p/flask/)
-* [Amazon Web Services](https://aws.amazon.com)
-* [MySQL](https://www.mysql.com/)
+- Docker
+- Github Codespaces
+- Github Actions
+- Django
+- PostgreSQL
+- Python
+- node.js
+- Apache Web Server 2.0
+- Network File-Sharing (NFS) protocol
 
-However, there are some supporting textbooks that we'll use to inform the work that we're doing. The two books that we will be using parts of are:
-
-* [_Hypermedia Systems_](https://hypermedia.systems/book/contents/)
-* [_A Programmable Web: An Unfinished Work_](https://drive.google.com/file/d/1TUoNB8iN4K9V4DXb0YKITWVwOAVMsNHX/view?usp=sharing)
-
-Readings from either of these books will be provided on the [course calendar](#important-resources). The dates listed indicate when the content
-should have been _read_, not when you should _start_ reading it.
+Not every student will need to use all of these at one time, and students may not receive equal time learning all of the platforms and products listed
+above. However, this course provides exposure to inputs and outputs of processes using these technologies. Those students interested in learning more
+about any of the tools used in the platform(s) developed for this course are free to explore all available codebases and resources written for the
+project.
 
 #### Platforms
 
@@ -104,11 +106,13 @@ This course relies on your regular use of:
 
 ### Evaluation
 
-Given that this course interfaces with _real people_ needing _real solutions_, the emphasis of evaluation in this course is less on the technical
+This course develops a _persistent_ and _real-world_ product with _users_. This means that the emphasis of evaluation in this course is less on technical
 proficiency gained in a given tool and more about two key concepts:
 
-* meeting client expectations
+* meeting project deadlines
 * working functionally as a team
+
+Despite (or, perhaps _because_ of) these priorities, high-quality, workable code is a _given_.
 
 The parameters defining your evaluation live in our shared [course code of conduct](CODE_OF_CONDUCT.md). These involve both _client-side_ feedback
 and team self-evaluation in addition to instructor appraisal of that feedback. While more on the mechanisms of this system is included in the course
