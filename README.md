@@ -45,7 +45,9 @@
 |Friday                    |10:00 - 11:00  |Alden Hall|
 |                          |15:00 - 16:30  |Alden Hall|
 
-To reserve a 15-minute slot during the above times, visit my office hours calendar [listed above](#important-resources).
+To reserve a 15-minute slot during the above times, visit my office hours calendar [listed above](#important-resources). To
+allow others to have space on my calendar, I ask that you only reserve up to 30 minutes (2 slots) at a time unless otherwise
+indicated in conversation with me.
 
 ### Canonical course description
 
@@ -94,8 +96,8 @@ tools used:
 
 Not every student will need to use all of these at one time, and students may not receive equal time learning all of the platforms and products listed
 above. However, this course provides exposure to inputs and outputs of processes using these technologies. Those students interested in learning more
-about any of the tools used in the platform(s) developed for this course are free to explore all available codebases and resources written for the
-project.
+about any of the tools used in the platform(s) developed for this course are free to explore and contribute to all available codebases and resources 
+written for the project, especially after the course has completed.
 
 #### Platforms
 
@@ -103,29 +105,26 @@ This course relies on your regular use of:
 
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
+* `SSH` connections to various development and production servers
 
 ### Evaluation
 
 This course develops a _persistent_ and _real-world_ product with _users_. This means that the emphasis of evaluation in this course is less on technical
 proficiency gained in a given tool and more about two key concepts:
 
-* meeting project deadlines
+* meeting project deadlines and accompaying requirements
 * working functionally as a team
 
-Despite (or, perhaps _because_ of) these priorities, high-quality, workable code is a _given_.
+Despite (or, perhaps _because_ of) these priorities, high-quality, workable code is a _given_. Shipping broadly unfunctional products will affect your team's
+(and, thereby your) grade for units of the course.
 
 The parameters defining your evaluation live in our shared [course code of conduct](CODE_OF_CONDUCT.md). These involve both _client-side_ feedback
-and team self-evaluation in addition to instructor appraisal of that feedback. While more on the mechanisms of this system is included in the course
-code of conduct, the general definition of the phases and weights of those phases is defined below:
+and team self-evaluation in addition to instructor appraisal of that feedback and the team's contributions. While more on the mechanisms of this 
+system is included in the course code of conduct, the general definition of the phases and weights of those phases is defined below:
 
-|Module       |Weight |Point value |
-|-------------|-------|------------|
-|Module 1: Project planning and design                   |20%    |200 pts.    |
-|Module 2: Building Web Applications                     |20%    |200 pts.    |
-|Module 3: Building a minimum viable product (MVP)       |20%    |200 pts.    |
-|Module 4: Testing and finishing your release candidate (RC)  |20%    |200 pts.    |
-|Presentation                                            |20%    |200 pts.    |
-|Total        |       |1000 pts.   |
+|Module |Contents                         |Weight |Point value |
+|-------|---------------------------------|-------|------------|
+| `1`   | Endpoints hardening and DevOps  |
 
 #### Class participation
 
