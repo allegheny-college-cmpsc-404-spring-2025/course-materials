@@ -159,7 +159,7 @@ Team members _must_:
 Team members _may not_:
 
 * assign more than one Technical Manager
-* completely take on responsibility for two roles
+* take on responsibility for two roles
 
 ##### Technical Manager
 
