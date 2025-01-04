@@ -89,8 +89,9 @@ tools used:
 - Django
 - PostgreSQL
 - Python
-- node.js
+- node.js / common JS (CJS)
 - Apache Web Server 2.0
+- Ubuntu Server
 - Network File-Sharing (NFS) protocol
 - Kerberos authentication protocol
 
@@ -109,7 +110,7 @@ This course relies on your regular use of:
 
 ### Evaluation
 
-This course develops a _persistent_ and _real-world_ product with _users_. This means that the emphasis of evaluation in this course is less on technical
+This course develops a _persistent_ and _real-world_ product with actual users. This means that the emphasis of evaluation in this course is less on technical
 proficiency gained in a given tool and more about two key concepts:
 
 * meeting project deadlines and accompaying requirements
@@ -118,13 +119,16 @@ proficiency gained in a given tool and more about two key concepts:
 Despite (or, perhaps _because_ of) these priorities, high-quality, workable code is a _given_. Shipping broadly unfunctional products will affect your team's
 (and, thereby your) grade for units of the course.
 
-The parameters defining your evaluation live in our shared [course code of conduct](CODE_OF_CONDUCT.md). These involve both _client-side_ feedback
-and team self-evaluation in addition to instructor appraisal of that feedback and the team's contributions. While more on the mechanisms of this 
-system is included in the course code of conduct, the general definition of the phases and weights of those phases is defined below:
+The parameters defining your evaluation live in our shared [course code of conduct](CODE_OF_CONDUCT.md). These involve team self-evaluation in addition 
+to instructor appraisal of that feedback and the team's contributions. While more on the mechanisms of this system is included in the course Code of Conduct, 
+the general definition of the phases and weights of those phases is defined below:
 
-|Module |Contents                         |Weight |Point value |
-|-------|---------------------------------|-------|------------|
-| `1`   |                                 |       |            |
+|Module |Contents                                              |Weight |Point value |
+|-------|------------------------------------------------------|-------|------------|
+| `1`   | Learning a Legacy Codebase, Application Fundamentals |       |            |
+| `2`   | Developing a Feature via Product Roadmap             |       |            |
+| `3`   | Developing a Feature via Product Roadmap             |       |            |
+| `4`   | Developing a Feature via Product Roadmap             |       |            |
 
 #### Class participation
 
@@ -139,10 +143,10 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 
 |Module     | Dates            |
 |:----------|:-----------------|
-| Project planning and design  | 13 Jan. - 31 Jan. |
-| Building Web Applications    | 3 Feb. - 28 Feb. |
-| Building a minimum viable product (MVP) | 10 Mar. - 4 Apr. |
-|Testing and finishing your release candidate (RC)  | 7 Apr. - 28 Apr. |
+| Learning a Legacy Codebase | 13 Jan. - 31 Jan. |
+| Developing a Feature via Product Roadmap | 3 Feb. - 28 Feb. |
+| Developing a Feature via Product Roadmap | 10 Mar. - 4 Apr. |
+| Developing a Feature via Product Roadmap | 7 Apr. - 28 Apr. |
 
 "Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
 while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the start of each 
@@ -154,7 +158,7 @@ Team members _must_:
 
 * assign a Technical Manager
 * assign a Writer
-* assign a Developer/Designer
+* assign at least one Developer
 
 Team members _may not_:
 
@@ -174,7 +178,7 @@ Students serving the Technical Manager role develop and implement testing protoc
 
 In addition, Technical Managers are responsible for charting the team's progress and maintaining the GitHub Project Board assigned to their team.
 
-##### Developer/Designer
+##### Developer
 
 Students in the Developer/Designer role are responsible for implementing solutions to either bugs or feature requests documented by the team during requirements-gathering. This role includes, but is not limited to:
 
@@ -199,7 +203,7 @@ Each Module will be concluded by submission of a Final Technical Report (FTR) wh
 
 This is a project for a client; it's more like life after school than life _during_ school. Like post-academic deadlines, deliverables developed for each Module is due by the end date of the Module. This means that the end dates listed above are _hard deadlines_.
 
-The modular nature of course design contemplates that we need to _keep moving_. Instruction will continue regardless of a single team's incomplete work. If there's unfinished work from a prior Module, it hinders your performance on all following Modules and may jeopardize your ability to complete the project to client standards. 
+The modular nature of course design contemplates that we need to _keep moving_. Instruction will continue regardless of a single team's incomplete work. If there's unfinished work from a prior Module, it hinders your performance on all following Modules and may jeopardize your ability to complete the project to according to its standards. 
 
 ### Course preparation
 
