@@ -32,7 +32,7 @@ Each team member commits to achieving the team’s goals and to support each oth
 
 * Delivering consistent results; 
 * Quality;
-* Working toward and within project goals; 
+* Working toward and within project goals
 
 ### Focus
 
