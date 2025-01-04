@@ -125,10 +125,12 @@ the general definition of the phases and weights of those phases is defined belo
 
 |Module |Contents                                              |Weight |Point value |
 |-------|------------------------------------------------------|-------|------------|
-| `1`   | Learning a Legacy Codebase, Application Fundamentals |       |            |
-| `2`   | Developing a Feature via Product Roadmap             |       |            |
-| `3`   | Developing a Feature via Product Roadmap             |       |            |
-| `4`   | Developing a Feature via Product Roadmap             |       |            |
+| `1`   | Learning a Legacy Codebase, Application Fundamentals | 20%   | 200        |
+| `2`   | Developing a Feature via Product Roadmap             | 20%   | 200        |
+| `3`   | Developing a Feature via Product Roadmap             | 20%   | 200        |
+| `4`   | Developing a Feature via Product Roadmap             | 20%   | 200        |
+|       | Presentation                                         | 20%   | 200        |
+|       |                                                      | 100%  | 1000       |
 
 #### Class participation
 
