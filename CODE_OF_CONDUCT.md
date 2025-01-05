@@ -66,7 +66,7 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-| Be honest with yourself about your skills/capabilities; admit when you're at the limit of your knowledge and seek assitance/resources |`Focus` |
+| Be honest with yourself about your skills/capabilities; admit when you're at the limit of your knowledge and seek assistance/resources |`Focus` |
 | Make sure your voice and thoughts are heard; default to a personal policy of raising issues soon and often | `Courage` |
 | Trust team members to perform their roles and tasks with full ability; unless requested, focus on your role's tasks | `Focus` |
 | Default to a position of kindness<sup>†</sup> | `Courage`, `Respect` |
