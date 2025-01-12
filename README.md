@@ -203,9 +203,14 @@ Each Module will be concluded by submission of a Final Technical Report (FTR) wh
 
 #### Assignment deadlines
 
-This is a project for a client; it's more like life after school than life _during_ school. Like post-academic deadlines, deliverables developed for each Module is due by the end date of the Module. This means that the end dates listed above are _hard deadlines_.
+This is a project for a _live system_; it's more like life after school than life _during_ school. Like post-academic deadlines, 
+deliverables developed for each Module is due by the end date of the Module. This means that the end dates listed above are 
+_hard deadlines_. In addition, urgent issues in production (i.e. bugs) will emerge. These take precedence over longer-running work
+and generally _will not_ move or affect due dates for Module-level tasks.
 
-The modular nature of course design contemplates that we need to _keep moving_. Instruction will continue regardless of a single team's incomplete work. If there's unfinished work from a prior Module, it hinders your performance on all following Modules and may jeopardize your ability to complete the project to according to its standards. 
+The modular nature of course design contemplates that we need to _keep moving_; work will continue regardless of a single team's 
+incomplete work. If there's unfinished work from a prior Module, it hinders your performance on all following Modules and may 
+jeopardize your ability to complete the project to according to its standards. 
 
 ### Course preparation
 
