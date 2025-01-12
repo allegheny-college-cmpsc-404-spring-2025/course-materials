@@ -78,6 +78,11 @@ Students who successfully complete this requirement will demonstrate an understa
 
 ### Required materials
 
+There is no textbook for this course, though the instructor will provide you with some light background reading to better
+understand the task at-hand. While this reading isn't _required per se_, it is highly recommended as many of the design
+decisions that you may make later in the course manifest several less durable (i.e. "squishy") ideas about world building
+and design.
+
 #### Course technologies
 
 The technologies underlying this course are all hosted and provided free of charge. The follow list attempts an exhaustive catalog of the various
