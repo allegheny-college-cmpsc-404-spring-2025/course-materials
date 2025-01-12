@@ -60,7 +60,7 @@ use contributions from all teams to develop a single contract that holds our ent
 
 ### People and accountability
 
-Steps you will take to hold yourself to a standard for discovering information, achieving goals, and delivering product results for our client.
+Steps you will take to hold yourself to a standard for discovering information, achieving goals, and delivering product results.
 
 #### Individual accountability
 
@@ -100,7 +100,7 @@ for high-quality work and high responsibility perform much better than those who
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-| Only use team approved channels of communication, unless the client requests it or situation demands it | `Respect` |
+| Only use team approved channels of communication | `Respect` |
 | Use available project tools (i.e., GitHub) to visualize work, set priorities, and address issues |`Openness` |
 | When using project tools, take care to use them in ways consistent with established team norms or practices | `Respect` |
 
