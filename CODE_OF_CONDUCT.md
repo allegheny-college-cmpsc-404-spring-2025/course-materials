@@ -52,11 +52,7 @@ should be open about the struggles they face. They should share feedback and lea
 ## Working agreement
 
 We apply the values above to create a working environment that is conducive to progress and project quality. To do so, we define the following
-areas and terms as our promoted and celebrated behaviors. In your team's branch, define each of the `TODO`s below making sure to define _at least
-three (3)_ items for each category and a maximum of _five (5)_.
-
-These terms both _guide and protect_ your contributions in this course. They will also constitute a _whole course contract_--the instructor will
-use contributions from all teams to develop a single contract that holds our entire class to the same contribution standard.
+areas and terms as our promoted and celebrated behaviors. These terms both _guide and protect_ your contributions in this course.
 
 ### People and accountability
 
