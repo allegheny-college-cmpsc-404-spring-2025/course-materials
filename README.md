@@ -86,9 +86,21 @@ Students who successfully complete this requirement will demonstrate an understa
 ### Required materials
 
 There is no textbook for this course, though the instructor will provide you with some light background reading to better
-understand the task at-hand. While this reading isn't _required per se_, it is highly recommended as many of the design
-decisions that you may make later in the course manifest several less durable (i.e. "squishy") ideas about world building
-and design.
+understand the task at-hand. Students in this course will contribute to the infrastructure of a MOO (a multiplayer object-oriented) 
+world run via GitHub Codespaces. Having a familiarity with some discussions around creation, operation, and administration
+of such a system will be _extremely helpful_. (Even spending some time playing something like a storyline on [AIDungeon](https://play.aidungeon.com/)
+might be worthwhile.) Note, however, that our MOO is conducted through a VSCode-in-the-web interface.
+
+While this reading list isn't _required per se_, it is highly recommended as many of the design decisions that you may make later in the 
+course manifest several less durable (i.e. "squishy") ideas about world building and design:
+
+* [Excerpt from Richard Bartle's _Designing Virtual Worlds_](https://drive.google.com/file/d/1EciRiw4g4ehBZoACZqU3TiYXq_E1x7v6/view?usp=sharing)
+* [Excerpt from Brian Dear's _The Friendly Orange Glow_](https://drive.google.com/file/d/1EdxHZtD8d0HeO2UWoe5GjUZdBeNBKmXR/view?usp=sharing)
+* [Sherry Turkle's "All MOOs are Educational"](https://drive.google.com/file/d/1Eo0ihKA14bpz5mRyuJL8iFh3HJIPZP2o/view?usp=sharing)
+* [Brian Wilbur's "Day to Day MOO Administration and How to Survive It"](https://drive.google.com/file/d/1Eo39A2Msus3pkLcX2_iKDVi3pvAdArLq/view?usp=sharing)
+
+Given advances in narrative construction, all of these sources are a bit out-dated, but their fundamental principles still hold true:
+at least insofar as basis for the project we're working on.
 
 #### Course technologies
 
