@@ -1,5 +1,6 @@
 # CMPSC 404: Web Applications
 
+![CMPSC 404 - Banner](https://github.com/user-attachments/assets/3b1134db-21f7-429c-8a13-6dd86cb7befa)
 
 ## Important Resources
 
