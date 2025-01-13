@@ -128,19 +128,19 @@ A unit of work defined as "done" indicates that it:
 ### Holistic Team Rubric
 
 The instructor will develop an evaluation rubric from team contributions and consistent with definitions from the course
-[Syllabus](README.md). Should the instructor discover some lacuna or other gap in contract provisions, they will add evaluative
-metrics supporting these gaps to the course evaluation tool.
+[Syllabus](README.md) and this Course Contract. Should the instructor discover some lacuna or other gap in contract provisions, 
+they will add evaluative metrics supporting these gaps to the course evaluation tool.
 
-This evaluation tool will be presented for an "up-down" vote during class on `16 January 2024`, at which time the contract will
-be finalized. All students agree to both live up to and be evaluated by the contract and evaluative tools as a condition of their
-enrollment in the course.
+This evaluation tool will be presented during class on `16 January 2024`, at which time the contract will be finalized. All students 
+agree to both live up to and be evaluated by the contract and evaluative tools as a condition of their enrollment in the course. For
+each module, teams will be required to answer questions using this rubric as one component of course evaluation. 
 
 ### Module deliverables
 
 Each module features a few different deliverable parts:
 
-- A Final Technical Report `FTR`, distributed as a template
-- A fully documented Pull Request (`PR`) or wholly new repository tied to a course/project milestone and/or key issue(s) which contains:
+- A Final Technical Report `FTR`, distributed as part of a given module repository
+- A fully documented Pull Request (`PR`) to the appropriate repository or wholly new repository tied to a course/project milestone and/or key issue(s) which contains:
   - Workable, complete, documented source code addressing the request(s)/issue(s) presented
   - Well-defined responses questions/concerns and summary of included functionality
   - A link to at least one issue to close and/or project milestone
