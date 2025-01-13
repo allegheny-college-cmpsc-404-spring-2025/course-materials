@@ -165,7 +165,7 @@ or contributing to group communication. You will receive five (5) participation 
 for the Presentation. These scores will be the result of you and your group’s assessment of your participation in a given module and count 
 toward individual Module grades earned.
 
-#### Cycles
+#### Modules
 
 The semester is composed of four (4) Modules, each running roughly three-and-a-half (3.5) weeks long:
 
@@ -174,7 +174,7 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 | Learning a Legacy Codebase | 13 Jan. - 31 Jan. |
 | Developing a Feature via Product Roadmap | 3 Feb. - 28 Feb. |
 | Developing a Feature via Product Roadmap | 10 Mar. - 4 Apr. |
-| Developing a Feature via Product Roadmap | 7 Apr. - 28 Apr. |
+|  Proposing and Developing a New Feature on Roadmap | 7 Apr. - 28 Apr. |
 
 "Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
 while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the start of each 
