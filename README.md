@@ -51,7 +51,13 @@ indicated in conversation with me.
 
 ### Canonical course description
 
-An exploration of technologies and data relationships which power modern web applications. Participating in hands-on activities which require teamwork, students build web applications that incorporate the "full stack," including databases, application programming interfaces (APIs), and public-facing web pages or mobile applications. Students develop a broad knowledge of different development approaches, languages, and design paradigms to learn advantages and disadvantages of technologies and frameworks. During weekly laboratory sessions, students participate in iterative design processes and report progress and technical details through written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+An exploration of technologies and data relationships which power modern web applications. Participating in hands-on activities 
+which require teamwork, students build web applications that incorporate the "full stack," including databases, application programming 
+interfaces (APIs), and public-facing web pages or mobile applications. Students develop a broad knowledge of different development approaches, 
+languages, and design paradigms to learn advantages and disadvantages of technologies and frameworks. During weekly laboratory sessions, 
+students participate in iterative design processes and report progress and technical details through written documents and oral presentations. 
+Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use 
+during class and lab sessions.
 
 Prerequisite: `CMPSC 203` or `CMPSC 302`.
 
