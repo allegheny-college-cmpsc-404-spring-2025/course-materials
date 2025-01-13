@@ -6,6 +6,8 @@
 
 * [Office Hours schedule](https://chompe.rs/office-hours)
 * [Course Calendar](https://chompe.rs/404-schedule)
+* [Hello Whorl GitHub org.](https://github.com/hellowhorl)
+  * This is the main org. that we're working on
 
 ## Syllabus
 
