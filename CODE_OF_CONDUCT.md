@@ -118,7 +118,7 @@ for high-quality work and high responsibility perform much better than those who
 
 A unit of work defined as "done" indicates that it:
 
-- Has undergone _some_ level of bug-testing and assurance of accuracy
+- Has undergone the appropriate level of bug-testing and assurance of accuracy
 - Provides a way to concretely assess its relative success or completeness
 - Conforms to the guidelines/standards in the teams requirements documents
 - Is documented (i.e., a `README` or appropriate inline commenting)
@@ -139,7 +139,7 @@ each module, teams will be required to answer questions using this rubric as one
 
 Each module features a few different deliverable parts:
 
-- A Final Technical Report `FTR`, distributed as part of a given module repository
+- A Final Technical Report `FTR`, distributed in template form as part of a given module repository
 - A fully documented Pull Request (`PR`) to the appropriate repository or wholly new repository tied to a course/project milestone and/or key issue(s) which contains:
   - Workable, complete, documented source code addressing the request(s)/issue(s) presented
   - Well-defined responses questions/concerns and summary of included functionality
