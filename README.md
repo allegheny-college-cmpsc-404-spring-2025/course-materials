@@ -175,6 +175,7 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 | Developing a Feature via Product Roadmap | 3 Feb. - 28 Feb. |
 | Developing a Feature via Product Roadmap | 10 Mar. - 4 Apr. |
 |  Proposing and Developing a New Feature on Roadmap | 7 Apr. - 28 Apr. |
+| Presentation | 6 May (09:00) |
 
 "Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
 while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the start of each 
