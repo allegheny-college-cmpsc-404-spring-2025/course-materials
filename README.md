@@ -167,7 +167,7 @@ toward individual Module grades earned.
 
 #### Modules
 
-The semester is composed of four (4) Modules, each running roughly three-and-a-half (3.5) weeks long:
+The semester is composed of four (4) Modules, each running roughly three-and-a-half (3.5) weeks long and a final presentation:
 
 |Module     | Dates            |
 |:----------|:-----------------|
